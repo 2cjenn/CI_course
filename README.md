@@ -1,5 +1,6 @@
 ![Windows, macOS, Linux](https://github.com/2cjenn/CI_course/workflows/Windows,%20macOS,%20Linux/badge.svg)
 ![Python 3.6-3.9](https://github.com/2cjenn/CI_course/workflows/Python%203.6-3.9/badge.svg)
+[![codecov](https://codecov.io/gh/2cjenn/CI_course/branch/main/graph/badge.svg?token=L3O60KY8KR)](https://codecov.io/gh/2cjenn/CI_course)
 
 # OxRSE Continuous Integration course
 
